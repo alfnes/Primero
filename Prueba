@@ -1,0 +1,5 @@
+//prueba
+
+void main (void){
+	printf("hola");
+}
